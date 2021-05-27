@@ -1,12 +1,12 @@
-.setup{
-  color:orangered;
-  text-align:center;
+.setup {
+  color: orangered;
+  text-align: center;
   font-size: 80px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
-.punchline{
-  color:purple;
-  text-align:center;
+.punchline {
+  color: purple;
+  text-align: center;
   font-size: 100px;
   font-family: Arial, Helvetica, sans-serif;
 }
